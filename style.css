@@ -1,0 +1,14 @@
+*{
+  background-color: chocolate;
+}
+
+  h1{
+  text-align: center;
+  text-decoration: dotted;
+  color: aqua;
+}
+
+p{
+  text-shadow: black;
+  color: rgb(88, 70, 185);
+}
